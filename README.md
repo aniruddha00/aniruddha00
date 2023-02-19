@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aniruddha00
 - 👀 I’m interested in ... software development
-- 🌱 I’m currently learning ... software engineering from RAIT
-- 💞️ I’m looking to collaborate on ...Android development,Data Structures and Algorithms
+- 🌱 I’m currently working ... software engineering at Cognizant
+- 💞️ I’m looking to collaborate on ...JAVA DEVELOPMENT,FRONT END DEVELOPMENT,BACKEND,FULL-STACK DEVELOPMENT
 - 📫 How to reach me ...aniruddhadhatrak@gmail.com 
 
 <!---

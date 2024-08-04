@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aniruddha00
 - 👀 I’m interested in ... software development
-- 🌱 I’m currently working ... software engineering at Cognizant with 1 year of experience JAVA Full-Stack Engineer.
+- 🌱 I’m currently working ... software engineering at Cognizant with 1+ year of experience JAVA Full-Stack Engineer.
 - 💞️ I’m looking to collaborate on ...JAVA DEVELOPMENT,FRONT END DEVELOPMENT,BACKEND,FULL-STACK DEVELOPMENT
 - 📫 How to reach me ...aniruddhadhatrak@gmail.com 
 
